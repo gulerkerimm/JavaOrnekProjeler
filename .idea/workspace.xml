@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b905c8c9-845a-4d63-8a5b-59ba572ab469" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NotOrtalaması/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KdvHesaplama/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/VucutKutleIneks/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hipatanüsHesaplama/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +39,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.main.executor": "Run",
+    "Application.org.example.KdvHesaplama.main.executor": "Run",
+    "Application.org.example.VucutKutleIneks.main.executor": "Run",
+    "Application.org.example.hipatanüsHesaplama.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Kerim/IdeaProjects/JavaOrnekProjeler/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.example.VucutKutleIneks.main">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.NotOrtalaması.main" />
       <module name="JavaOrnekProjeler" />
@@ -63,8 +63,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.KdvHesaplama.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.KdvHesaplama.main" />
+      <module name="JavaOrnekProjeler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.KdvHesaplama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.VucutKutleIneks.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.VucutKutleIneks.main" />
+      <module name="JavaOrnekProjeler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.VucutKutleIneks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.hipatanüsHesaplama.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.hipatanüsHesaplama.main" />
+      <module name="JavaOrnekProjeler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.hipatanüsHesaplama.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.VucutKutleIneks.main" />
+        <item itemvalue="Application.org.example.hipatanüsHesaplama.main" />
+        <item itemvalue="Application.org.example.KdvHesaplama.main" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
